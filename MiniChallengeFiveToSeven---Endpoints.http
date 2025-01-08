@@ -1,0 +1,6 @@
+@MiniChallengeFiveToSeven___Endpoints_HostAddress = http://localhost:5020
+
+GET {{MiniChallengeFiveToSeven___Endpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
