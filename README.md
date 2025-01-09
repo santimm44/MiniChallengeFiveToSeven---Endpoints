@@ -27,6 +27,6 @@ Things to turn in:
 - Github link in comments
 - Don't forget the peer review!
 
-## Reviewed By
+## Reviewed By Kassandra Spacek
 
-### Comments
+### Comments Everything works. I would recommend you add the git ignore to your project. In the Odd or Even service you seem to be missing some {} brackets and a little bit of the formating in the number reverse it would make it easier to read. Everything else looks great I loved the Mad Lib!
